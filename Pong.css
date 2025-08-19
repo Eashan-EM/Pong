@@ -8,9 +8,8 @@ html, body {
     align-items: center;
 }
 
-#drawingArea {
+canvas {
     display: block;
-    width: 500px;
     margin: 0;
     padding: 0;
 }
